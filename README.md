@@ -5,3 +5,8 @@ This repository is a boiler palte for a Express web Application.
 
 It is using ES Modules rather than commonJS, and has a directory structure that seperates our responsiblities and concerns. 
 
+Team Members For Tonys Group (Group 5)
+- MENDOZA, Samantha Monique (22067335)
+- WELIVITAGE, Samodhi (22104163)
+- VORACHIT, Khampaseuth (22161948) aka Tony
+- YOUNUS, Abdullah (22132606)
